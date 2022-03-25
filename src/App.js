@@ -4,7 +4,7 @@ import Saludo,{Bye} from "./components/Saludo";
 function App() {
   return (
     <div>
-  <h1> Hola mundo</h1>
+  <h1> Hola mundo2</h1>
   <Bye/>
   <Saludo/>
   <Cuadro/>
